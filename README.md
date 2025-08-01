@@ -25,9 +25,3 @@ The **Online Reminder System** is a full-stack application that allows users to 
 ### 📅 View Upcoming Reminders
 - Users can view all scheduled future reminders
 
----
-
-
-
-## 📂 Project Structure
-
